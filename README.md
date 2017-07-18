@@ -7,7 +7,7 @@ Note : I have tested this application on node version 6.11.1 which is LTS versio
 2) Go inside the folder
 3) Run 'npm install -g grunt' command to install grunt globally 
 4) Run 'npm install' command to install required dependencies
-5) Give input into 'src/sample.txt' file
+5) Give input into 'src/sample1.txt' file
 6) Run 'grunt --filename=src/sample1.txt' to run application
 7) Run unit tests using 'grunt tdd' command
  
