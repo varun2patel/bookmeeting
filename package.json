@@ -1,0 +1,26 @@
+{
+  "name": "reg-desk",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Varun Patel <varun@everestek.com>",
+  "description": "Book meetings",
+  "keywords": [
+    "grunt",
+    "nodejs",
+    "moment"
+  ],
+  "main": "index.js",
+  "readme": "README.md",
+  "dependencies": {
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0",
+    "grunt-run": "0.7.0",
+    "moment": "2.18.1",
+    "readline": "1.3.0",
+    "yargs": "8.0.2"
+  },
+  "devDependencies": {
+    "grunt-mocha-test": "0.13.2",
+    "mocha": "3.4.2"
+  }
+}
